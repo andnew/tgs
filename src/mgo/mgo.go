@@ -5,6 +5,7 @@ import (
 	"log"
 )
 
+// MongoDB
 func GoMongo() {
 
 	fmt.Println("Go MongoDB ...")

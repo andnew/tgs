@@ -4,3 +4,4 @@ src/github.com/*
 src/goland.org/*
 *.*.iml
 .idea
+.vscode

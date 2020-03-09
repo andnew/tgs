@@ -1,5 +1,5 @@
 bin/*
 pkg/*
-src/github.com
+src/github.com/*
 *.*.iml
 .idea

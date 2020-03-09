@@ -1,5 +1,6 @@
 bin/*
 pkg/*
-src/github.com
+src/github.com/*
+src/goland.org/*
 *.*.iml
 .idea

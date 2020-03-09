@@ -111,7 +111,6 @@ func main() {
 	cur.Close(context.TODO())
 	fmt.Printf("Found multiple documents (array of pointers): %#v\n", results)
 
-
 	// 断开连接
 	err = client.Disconnect(context.TODO())
 	if err != nil {
